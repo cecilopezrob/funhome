@@ -1,0 +1,23 @@
+body {
+  background-color: #4BA35B;
+}
+nav ul li {
+  text-align:center;
+  display:inline-grid;
+  margin-left:60px;
+  margin-right:60px;
+  font-family: 'Dela Gothic One', cursive;
+}
+main {
+font-family: 'Bebas Neue', cursive;
+  font-size: 18px;
+  color: #0B5218;
+  text-align: center
+}
+img{
+  width: 300px;
+}
+footer {
+font-family: 'Bebas Neue', cursive;
+  font-size: 18px;
+}
